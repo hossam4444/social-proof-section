@@ -194,6 +194,7 @@ body {
 }
 .cards .card .comment p {
   color: #ddd;
+  line-height: 1.8;
 }
 .attribution {
   font-size: 11px;
